@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "64354fb758865e6fd6c72c7d"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "test@gmail.com",
+  "contact": "8989898989",
+  "designation": "super admin",
+  "gender": "Male",
+  "password": "asdfghjk",
+  "confirmPassword": "asdfghjk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64365db7a4c6b2b2342ea399"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "test@gmail.com.in",
+  "contact": "8909231099",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "qaqaqaqa",
+  "confirmPassword": "qaqaqaqa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64365f4fa4c6b2b2342ea39d"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "c@r.com",
+  "contact": "9090909099",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "ikikikik",
+  "confirmPassword": "ikikikik",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64367e89cfa2fb31747ecc3c"
+  },
+  "firstName": "iki",
+  "lastName": "iki",
+  "email": "ui@g.com",
+  "contact": "8999888898",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "ikikikik",
+  "confirmPassword": "ikikikik",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436829fcfa2fb31747ecc42"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "tick@ui.com",
+  "contact": "7899875645",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "jnjnjnjn",
+  "confirmPassword": "jnjnjnjn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643683e5cfa2fb31747ecc49"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "ui@uj.com",
+  "contact": "8445338592",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "ujujujuj",
+  "confirmPassword": "ujujujuj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643684fecfa2fb31747ecc50"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "ijk@gmail.com",
+  "contact": "7678900980",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "ikikikik",
+  "confirmPassword": "ikikikik",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64369818cfa2fb31747ecc53"
+  },
+  "firstName": "hkkj",
+  "lastName": "hkjkjk",
+  "email": "ij@gmail.com",
+  "contact": "7887787878",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "uhjuhjuhj",
+  "confirmPassword": "uhjuhjuhj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64369be8cfa2fb31747ecc56"
+  },
+  "firstName": "nmn",
+  "lastName": "nmn",
+  "email": "kl@kl.com",
+  "contact": "9809089090",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "ikliklik",
+  "confirmPassword": "ikliklik",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64369e5dcfa2fb31747ecc59"
+  },
+  "firstName": "ujk",
+  "lastName": "ujk",
+  "email": "uhj@ujh.com",
+  "contact": "6768676867",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "ikliklikl",
+  "confirmPassword": "ikliklikl",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64369e95cfa2fb31747ecc5c"
+  },
+  "firstName": "ujk",
+  "lastName": "ujk",
+  "email": "uhj@uhj.com",
+  "contact": "7889898987",
+  "designation": "admin",
+  "gender": "Male",
+  "password": "ujkujkujk",
+  "confirmPassword": "ujkujkujk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64369fc7cfa2fb31747ecc61"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "jklo@jklo.com",
+  "contact": "8909890980",
+  "designation": "super admin",
+  "gender": "Male",
+  "password": "asdfghjk",
+  "confirmPassword": "asdfghjk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436a5aa1cfcabda387606cc"
+  },
+  "firstName": "asd",
+  "lastName": "asd",
+  "email": "xzc@xzc.com",
+  "contact": "9098878685",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "okloklok",
+  "confirmPassword": "okloklok",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64382c6360327060250f0d37"
+  },
+  "firstName": "asdf",
+  "lastName": "asdf",
+  "email": "asdf@rf.com",
+  "contact": "9837604437",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "qaqaqaqa",
+  "confirmPassword": "qaqaqaqa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64382cbb60327060250f0d3a"
+  },
+  "firstName": "ujk",
+  "lastName": "ujk",
+  "email": "ujk@ujk.com",
+  "contact": "7654345678",
+  "designation": "customer",
+  "gender": "Male",
+  "password": "nmjnmjnmj",
+  "confirmPassword": "nmjnmjnmj",
+  "__v": 0
+}]
